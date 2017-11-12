@@ -1,0 +1,5 @@
+# Interaction Statement
+
+The font in the starting screen is similar to the font of the post of the Rise of the Planet of the Apes. I think they have a similar theme. The stoke weight is thick which gives the viewers a sense of heaviness. The color is reddish which also gives the viewers a sense of heaviness. After the starting screen, the user will see an introduction. There is a guideline for the game and also some background information. When the game start, the user will see the factories and polluted earth, which color is dark compared with the light color trees.
+
+It is hard to destroy the factories at the beginning of the battle, because the effect of destroying the environment is long term. As the time goes by, the natural camp will receive reinforcement. The victory of the balance begins to tilt, which means human begin to receive punishment. At the end, if the user wins, there will be congratulations. Otherwise, an earthquake will destroy everything. This means human beings cannot defeat nature. The background music is to rendering atmosphere.
